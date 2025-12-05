@@ -131,10 +131,4 @@ NumPy 1.26+
 
 PyTorch 2.0+
 
-📤 Submission Notes
 
-✔ Code is fully commented
-✔ Student details included
-✔ README thoroughly explains all components
-✔ GitHub repo contains both Part A and Part B
-✔ Output tests provided
