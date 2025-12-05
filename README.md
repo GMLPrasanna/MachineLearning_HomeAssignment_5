@@ -4,8 +4,8 @@ University of Central Missouri
 
 Student Information
 
-Name: CHINTALA SAI SRAVAN
-Student ID: 700773836
+Name: GUNTUR MURALI LAKSHMI PRASANNA
+Student ID: 700768410
 Course: CS5710 — Machine Learning
 Semester: Fall 2025
 Assignment: Home Assignment 5
